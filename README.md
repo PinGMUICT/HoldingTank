@@ -12,3 +12,7 @@ These wait me to take actions.
   <li><a href="https://www.fail2ban.org/wiki/index.php/Main_Page">fail2ban - Suspicious login log monitoring and auto-ban that IP</a></li>
 </ul>
 
+<h3> Security Tools </h3>
+<ul>
+  <li><a href="https://www.ossec.net/">OSSEC - Open-Source HIDS</a></li>
+</ul>
