@@ -20,6 +20,10 @@ These wait me to take actions.
 <h3> Security Improvement </h3>
 <ul>
   <li><a href="https://medium.com/@ibrahim.ayadhi/deploying-of-infrastructure-and-technologies-for-a-soc-as-a-service-socass-8e1bbb885149">Deploying of infrastructure and technologies for a SOC as a Service ( SOCasS)</a></li>
+</ul>
+
+<h3> Forensics </h>
+<ul>
   <li><a href="https://eforensicsmag.com/analysis-of-malicious-excel-spreadsheet-by-monnappa-k-a/">Analysis of Malicious Excel Spreadsheet</a></li>
 </ul>
 
