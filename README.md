@@ -21,3 +21,8 @@ These wait me to take actions.
 <ul>
   <li><a href="https://medium.com/@ibrahim.ayadhi/deploying-of-infrastructure-and-technologies-for-a-soc-as-a-service-socass-8e1bbb885149">Deploying of infrastructure and technologies for a SOC as a Service ( SOCasS)</a></li>
 </ul>
+
+<h3> Miscellaneous </h3>
+<ul>
+  <li><a href="https://support.office.com/en-us/article/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6#ID0EAABAAA=Excel">Command-line switches for Microsoft Office products</a></li>
+</ul>
