@@ -32,4 +32,5 @@ These wait me to take actions.
 <h3> Miscellaneous </h3>
 <ul>
   <li><a href="https://support.office.com/en-us/article/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6#ID0EAABAAA=Excel">Command-line switches for Microsoft Office products</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1RTcZsRbDsjxwmKpe3FIvSKUjBk5pR2Dlzj71QTnxAK0/edit#gid=0">Crowdstrike Splunk Threat Hunting Searches</a></li>
 </ul>
