@@ -27,6 +27,7 @@ These wait me to take actions.
   <li><a href="https://eforensicsmag.com/analysis-of-malicious-excel-spreadsheet-by-monnappa-k-a/">Analysis of Malicious Excel Spreadsheet</a></li>
   <li><a href="https://dfirtnt.wordpress.com/2020/03/03/find-evil-in-5-easy-steps-part-1/">Find Evil” in 5 easy steps!! (Part 1)</a></li>
   <li><a href="https://dfirtnt.wordpress.com/2020/06/09/find-evil-in-5-easy-steps-part2/">Find Evil in 5 Easy Steps – Part2</a></li>
+  <li><a href="https://zeltser.com/analyzing-malicious-documents/">Analyzing Malicious Documents Cheat Sheet</a></li>
 </ul>
 
 <h3> Miscellaneous </h3>
