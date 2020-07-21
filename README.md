@@ -10,6 +10,7 @@ These wait me to take actions.
 <h3> Linux </h3>
 <ul>
   <li><a href="https://www.fail2ban.org/wiki/index.php/Main_Page">fail2ban - Suspicious login log monitoring and auto-ban that IP</a></li>
+  <li><a href="https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu">Install .NET Core SDK or .NET Core Runtime on Ubuntu</a></li>
 </ul>
 
 <h3> Security Tools </h3>
