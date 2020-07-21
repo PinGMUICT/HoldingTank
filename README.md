@@ -20,6 +20,7 @@ These wait me to take actions.
 <h3> Security Improvement </h3>
 <ul>
   <li><a href="https://medium.com/@ibrahim.ayadhi/deploying-of-infrastructure-and-technologies-for-a-soc-as-a-service-socass-8e1bbb885149">Deploying of infrastructure and technologies for a SOC as a Service ( SOCasS)</a></li>
+  <li><a href="https://github.com/cobbr/Covenant">Covenant C2 Framework - Generate a malicious C# payload</a></li>
 </ul>
 
 <h3> ML IN CyberSec </h3>
@@ -40,4 +41,6 @@ These wait me to take actions.
 <ul>
   <li><a href="https://support.office.com/en-us/article/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6#ID0EAABAAA=Excel">Command-line switches for Microsoft Office products</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1RTcZsRbDsjxwmKpe3FIvSKUjBk5pR2Dlzj71QTnxAK0/edit#gid=0">Crowdstrike Splunk Threat Hunting Searches</a></li>
+  <li><a href="https://cognosec.com/bypassing-symantec-endpoint-protection-for-fun-profit-defense-evasion/">BYPASSING SYMANTEC ENDPOINT PROTECTION FOR FUN & PROFIT (DEFENSE EVASION)</a></li>
+  <li><a href="https://medium.com/@viveik.chauhan/how-i-bypass-crowdstrike-restriction-1bc558abd464">How I Bypassed Crowdstrike Restriction</a></li>
 </ul>
