@@ -16,12 +16,16 @@ These wait me to take actions.
 <h3> Security Tools </h3>
 <ul>
   <li><a href="https://www.ossec.net/">OSSEC - Open-Source HIDS</a></li>
+  <li><ul>
+    <li><a href="https://fatrodzianko.com/2019/08/14/getting-started-with-covenant-c2/">Getting Started with Covenant C2</a></li>
+    <li><a href="https://github.com/cobbr/Covenant">Covenant C2 Framework - Generate a malicious C# payload</a></li>
+    <li><a href="https://hakin9.org/covenant-the-net-based-c2-on-kali-linux/">Covenant the .NET based C2 on Kali Linux | by Dan Dieterle</a></li>
+    </ul>
 </ul>
 
 <h3> Security Improvement </h3>
 <ul>
   <li><a href="https://medium.com/@ibrahim.ayadhi/deploying-of-infrastructure-and-technologies-for-a-soc-as-a-service-socass-8e1bbb885149">Deploying of infrastructure and technologies for a SOC as a Service ( SOCasS)</a></li>
-  <li><a href="https://github.com/cobbr/Covenant">Covenant C2 Framework - Generate a malicious C# payload</a></li>
 </ul>
 
 <h3> ML IN CyberSec </h3>
