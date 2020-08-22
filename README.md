@@ -21,6 +21,7 @@ These wait me to take actions.
       <li><a href="https://github.com/cobbr/Covenant">Covenant C2 Framework - Generate a malicious C# payload</a></li>
       <li><a href="https://hakin9.org/covenant-the-net-based-c2-on-kali-linux/">Covenant the .NET based C2 on Kali Linux | by Dan Dieterle</a></li>
    </ul></li>
+  <li><a href="https://posts.specterops.io/gathering-open-source-intelligence-bee58de48e05">Useful Open-Source Tools Article</a></li>
 </ul>
 
 <h3> Security Improvement </h3>
