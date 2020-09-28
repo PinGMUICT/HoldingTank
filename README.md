@@ -50,3 +50,8 @@ These wait me to take actions.
   <li><a href="https://cognosec.com/bypassing-symantec-endpoint-protection-for-fun-profit-defense-evasion/">BYPASSING SYMANTEC ENDPOINT PROTECTION FOR FUN & PROFIT (DEFENSE EVASION)</a></li>
   <li><a href="https://medium.com/@viveik.chauhan/how-i-bypass-crowdstrike-restriction-1bc558abd464">How I Bypassed Crowdstrike Restriction</a></li>
 </ul>
+
+<h3> Self-Improvement </h3>
+<ul>
+  <li><a href="https://bohops.com/">| bohops | A blog about red teaming, penetration testing, and security research</a></li>
+</ul>
