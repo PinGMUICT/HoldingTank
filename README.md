@@ -54,4 +54,5 @@ These wait me to take actions.
 <h3> Self-Improvement </h3>
 <ul>
   <li><a href="https://bohops.com/">| bohops | A blog about red teaming, penetration testing, and security research</a></li>
+  <li><a href="https://lolbas-project.github.io/">LOLBAS - Living Off The Land Binaries and Scripts (and also Libraries)</a></li>
 </ul>
