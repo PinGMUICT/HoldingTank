@@ -22,6 +22,8 @@ These wait me to take actions.
       <li><a href="https://hakin9.org/covenant-the-net-based-c2-on-kali-linux/">Covenant the .NET based C2 on Kali Linux | by Dan Dieterle</a></li>
    </ul></li>
   <li><a href="https://posts.specterops.io/gathering-open-source-intelligence-bee58de48e05">Useful Open-Source Tools Article</a></li>
+  <li><a href="https://tools.tldr.run/?fbclid=IwAR32LTjTBMz_Sm1h5HhHJpvoPWlbxugrD-xu-a3dFx2RIh1WQbxNOCUiTeQ">Security Tools!
+Curated - list of security tools for Hackers & Builders!</a></li>
 </ul>
 
 <h3> Security Improvement </h3>
