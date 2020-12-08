@@ -51,6 +51,7 @@ Curated - list of security tools for Hackers & Builders!</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1RTcZsRbDsjxwmKpe3FIvSKUjBk5pR2Dlzj71QTnxAK0/edit#gid=0">Crowdstrike Splunk Threat Hunting Searches</a></li>
   <li><a href="https://cognosec.com/bypassing-symantec-endpoint-protection-for-fun-profit-defense-evasion/">BYPASSING SYMANTEC ENDPOINT PROTECTION FOR FUN & PROFIT (DEFENSE EVASION)</a></li>
   <li><a href="https://medium.com/@viveik.chauhan/how-i-bypass-crowdstrike-restriction-1bc558abd464">How I Bypassed Crowdstrike Restriction</a></li>
+  <li><a href="https://zeltser.com/malware-sample-sources/">Free Malware Sample Sources for Researchers</a></li>
 </ul>
 
 <h3> Self-Improvement </h3>
