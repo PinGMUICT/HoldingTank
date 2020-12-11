@@ -24,6 +24,7 @@ These wait me to take actions.
   <li><a href="https://posts.specterops.io/gathering-open-source-intelligence-bee58de48e05">Useful Open-Source Tools Article</a></li>
   <li><a href="https://tools.tldr.run/?fbclid=IwAR32LTjTBMz_Sm1h5HhHJpvoPWlbxugrD-xu-a3dFx2RIh1WQbxNOCUiTeQ">Security Tools!
 Curated - list of security tools for Hackers & Builders!</a></li>
+  <li><a href="https://eslam3kl.medium.com/simple-recon-methodology-920f5c5936d4">Simple Recon Methodology</a></li>
 </ul>
 
 <h3> Security Improvement </h3>
