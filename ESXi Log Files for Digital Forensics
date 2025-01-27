@@ -1,0 +1,10 @@
+ESXi Log Files for Digital Forensics
+
+
+/var/log/shell.log → Tracks command execution in ESXi Shell
+
+/var/log/hostd.log → Logs administrative activities and user authentication
+
+/var/log/auth.log → Captures login attempts and authentication events
+
+/var/log/vobd.log → Stores system and security event logs
